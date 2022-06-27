@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoprosx
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in QA And Frontend
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
